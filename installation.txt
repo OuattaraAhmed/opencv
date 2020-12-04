@@ -1,0 +1,11 @@
+installation de opencv
+
+1 install python
+ en telechargant python
+
+2 install pip
+
+3 installer opencv
+
+pip install opencv-python
+pip install opencv-contrib-python
